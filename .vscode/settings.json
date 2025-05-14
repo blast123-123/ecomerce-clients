@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/361c2fc5-6d30-4795-81c5-b4c4e289cba4/resourceGroups/Cibernetics-Core_group/providers/Microsoft.Web/sites/Cibernetics-Core",
+    "appService.deploySubpath": "."
+}
