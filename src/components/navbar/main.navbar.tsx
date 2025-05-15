@@ -26,7 +26,7 @@ export function Navbar() {
           <Image src="/logo.jpg" alt="Logo" width={40} height={40} />
           <Link href="/" className="flex items-center space-x-2">
             <span className="text-2xl font-extrabold tracking-tight">
-              Cibernetics Core
+              Cibernetics Core forever
             </span>
           </Link>
 
